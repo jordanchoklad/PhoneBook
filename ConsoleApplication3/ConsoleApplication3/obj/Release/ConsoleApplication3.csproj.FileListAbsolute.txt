@@ -1,0 +1,5 @@
+c:\users\choklad\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\ConsoleApplication3.exe.config
+c:\users\choklad\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\ConsoleApplication3.exe
+c:\users\choklad\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\ConsoleApplication3.pdb
+c:\users\choklad\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Release\ConsoleApplication3.exe
+c:\users\choklad\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Release\ConsoleApplication3.pdb
